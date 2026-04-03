@@ -2,6 +2,7 @@
 ### Lab 06 – Digital Image Processing | Mr. Ghulam Ali
 
 Instructor: Sir. Ghulam Ali
+
 A complete **Smart Image Enhancement & Analysis System** built in Python (OpenCV + Matplotlib), implementing a full six-phase image processing pipeline.
 
 ---
