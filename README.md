@@ -1,6 +1,7 @@
 # DIP Image Enhancement System
 ### Lab 06 – Digital Image Processing | Mr. Ghulam Ali
 
+Instructor: Sir. Ghulam Ali
 A complete **Smart Image Enhancement & Analysis System** built in Python (OpenCV + Matplotlib), implementing a full six-phase image processing pipeline.
 
 ---
@@ -76,18 +77,32 @@ cv2.imwrite("images/output/enhanced_output.png", enhanced)
 
 ---
 
-## Results
+  ## Results
 
-All output figures are saved in `results/`:
+### Phase 1 - Acquisition
+![Phase 1](results/phase1_acquisition.png)
 
-- `phase1_acquisition.png` — Image report
-- `phase2_sampling.png` — Sampling scale comparison
-- `phase2_quantization.png` — Bit depth comparison
-- `phase3_rotations.png` — Rotation grid
-- `phase3_transforms.png` — Translation, shear, inverse
-- `phase4_intensity.png` — Intensity transform comparison
-- `phase5_histogram.png` — Before/after histogram + CDF
-- `final_comparison.png` — Original vs enhanced side-by-side
+### Phase 2 - Quantization
+![Phase 2 Quantization](results/phase2_quantization.png)
+
+### Phase 2 - Sampling
+![Phase 2 Sampling](results/phase2_sampling.png)
+
+### Phase 3 - Rotations
+![Phase 3 Rotations](results/phase3_rotations.png)
+
+### Phase 3 - Transforms
+![Phase 3 Transforms](results/phase3_transforms.png)
+
+### Phase 4 - Intensity
+![Phase 4 Intensity](results/phase4_intensity.png)
+
+### Phase 5 - Histogram
+![Phase 5 Histogram](results/phase5_histogram.png)
+
+### Final Comparison
+![Final Comparison](results/final_comparison.png)
+
 
 ---
 
