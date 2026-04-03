@@ -1,5 +1,4 @@
-# DIP Image Enhancement System
-### Lab 06 – Digital Image Processing | Mr. Ghulam Ali
+# Digital Image Processing Course: Image Enhancement System
 
 Instructor: Sir. Ghulam Ali
 
